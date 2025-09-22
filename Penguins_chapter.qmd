@@ -1,5 +1,4 @@
 ---
-
 title: "Exploration données sur les manchots"
 author: "Justine" 
 bibliography: references.bib
