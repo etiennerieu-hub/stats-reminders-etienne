@@ -1,6 +1,6 @@
 ---
 title: "Exploration données sur les manchots"
-author: "My name" 
+author: "Justine" 
 bibliography: references.bib
 execute: 
   freeze: auto
