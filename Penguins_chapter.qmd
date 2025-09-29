@@ -1,5 +1,4 @@
 ---
-
 title: "Exploration données sur les manchots"
 author: "E Rieu 2" 
 bibliography: references.bib
